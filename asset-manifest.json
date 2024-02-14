@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/toolbox-hiboux/static/css/main.e6c13ad2.css",
-    "main.js": "/toolbox-hiboux/static/js/main.76baf336.js",
+    "main.css": "/toolbox-hiboux/static/css/main.4b60c94e.css",
+    "main.js": "/toolbox-hiboux/static/js/main.639e8a2c.js",
     "static/js/592.458aa136.chunk.js": "/toolbox-hiboux/static/js/592.458aa136.chunk.js",
     "index.html": "/toolbox-hiboux/index.html",
-    "main.e6c13ad2.css.map": "/toolbox-hiboux/static/css/main.e6c13ad2.css.map",
-    "main.76baf336.js.map": "/toolbox-hiboux/static/js/main.76baf336.js.map",
+    "main.4b60c94e.css.map": "/toolbox-hiboux/static/css/main.4b60c94e.css.map",
+    "main.639e8a2c.js.map": "/toolbox-hiboux/static/js/main.639e8a2c.js.map",
     "592.458aa136.chunk.js.map": "/toolbox-hiboux/static/js/592.458aa136.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e6c13ad2.css",
-    "static/js/main.76baf336.js"
+    "static/css/main.4b60c94e.css",
+    "static/js/main.639e8a2c.js"
   ]
 }
